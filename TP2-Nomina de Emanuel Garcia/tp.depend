@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1557435868 source:c:\users\usuario\desktop\tpverga\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1557432012 c:\users\usuario\desktop\tpverga\tp\biblioteca.h
+
+1557434735 source:c:\users\usuario\desktop\tpverga\tp\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1557434829 source:c:\users\usuario\desktop\tpverga\tp\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557435753 c:\users\usuario\desktop\tpverga\tp\arrayemployees.h
+
+1557436886 source:c:\users\usuario\desktop\tpverga\nomina de emanuel garcia\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557436888 c:\users\usuario\desktop\tpverga\nomina de emanuel garcia\arrayemployees.h
+
+1557436889 source:c:\users\usuario\desktop\tpverga\nomina de emanuel garcia\emanuelgarcia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1557530907 source:c:\users\usuario\desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\nomina de emanuel garcia\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1557530770 c:\users\usuario\desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\nomina de emanuel garcia\arrayemployees.h
+
+1557513358 source:c:\users\usuario\desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\nomina de emanuel garcia\emanuelgarcia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+

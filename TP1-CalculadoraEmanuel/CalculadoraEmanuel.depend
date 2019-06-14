@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554286378 source:c:\users\usuario\desktop\utn\1 cuatri 2019\programacion\clase04\nueva carpeta\calculadoraemanuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554286359 source:c:\users\usuario\desktop\utn\1 cuatri 2019\programacion\clase04\nueva carpeta\calculadoraemanuel\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1554286352 c:\users\usuario\desktop\utn\1 cuatri 2019\programacion\clase04\nueva carpeta\calculadoraemanuel\biblioteca.h
+
+1554288107 source:c:\users\usuario\desktop\calculadoraemanuel\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1554288107 c:\users\usuario\desktop\calculadoraemanuel\biblioteca.h
+
+1554288113 source:c:\users\usuario\desktop\calculadoraemanuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
